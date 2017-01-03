@@ -1,0 +1,14 @@
+{
+    "require": {
+	"michelf/php-markdown": ">=1.7.0",
+	"suin/php-rss-writer": ">=1.0",
+    "noodlehaus/dispatch": ">=10.2.1"
+    },
+    "repositories": [
+    {
+         "type": "composer", 
+         "url": "https://packagist.org"
+    },
+    { "packagist": false }
+    ]
+}
